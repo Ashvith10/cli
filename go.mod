@@ -56,3 +56,5 @@ require (
 	go.mongodb.org/mongo-driver v1.14.0 // indirect
 	golang.org/x/sys v0.25.0 // indirect
 )
+
+replace github.com/renderinc/cli => github.com/Ashvith10/cli
